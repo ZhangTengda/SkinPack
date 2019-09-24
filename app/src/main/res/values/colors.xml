@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--统一背景色 -->
+    <color name="colorPrimary">#f8f8f8</color>
+
+    <!--会话列表界面背景色-->
+    <color name="colorPrimaryDark">#ECEDF1</color>
+
+    <color name="colorAccent">#00000000</color>
+</resources>
